@@ -1,6 +1,5 @@
 # ChaitanyaNarava.
 # Mercari Price Suggestion Challenge.
-<img src="https://camo.githubusercontent.com/1bef17f2d929b87e9acf45a40efb5c97030fa796/68747470733a2f2f7777772e6d6572636172692e636f6d2f6173736574732f696d672f68656c705f63656e7465722f75732f6f67702e706e67" width=800px height=500px>
 
 <h3>Bussiness Problem:</h3>
 
@@ -21,5 +20,3 @@
 *   Their is no such ML algorithm that gives the super result then all the existing models. If it exists then all the models will be gone into dustbin.
 *   Basing on the Prior Knowlege, domain excepts, from the problem statement and  even from the first price winners one chooses the algorithm to tackle their problem.
 *   Let's try a bunch of regression models to apply on the dataset and we even try a ensemble MLP models on our data.
-
-You can see my article on this here: https://medium.com/@chaitanyanarava/mercari-price-suggestion-challenge-66500ac1f88a
